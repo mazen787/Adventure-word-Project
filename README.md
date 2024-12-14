@@ -1,5 +1,15 @@
 # AdventureWorks Analysis Project (Excel)
 
+Here are two example photos of the dashboards:
+
+### Dashboard 1:
+![Dashboard 1]![Screenshot 2024-12-14 104831](https://github.com/user-attachments/assets/ad8a2c99-3d47-4262-9050-16d984e4e5fb)
+
+
+### Dashboard 2:
+![Dashboard 2]![Screenshot 2024-12-14 104844](https://github.com/user-attachments/assets/f51a1969-6a31-4725-9899-d35782235f75)
+
+
 This project showcases my analysis of the AdventureWorks dataset using Excel. The primary objectives were to clean and prepare the data, perform data modeling, analyze various metrics using Power Query and Power Pivot, and create interactive dashboards to derive actionable insights.
 
 ## Project Highlights
