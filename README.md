@@ -61,19 +61,6 @@ This project showcases my analysis of the AdventureWorks dataset using Excel. Th
 
 ---
 
-## Repository Structure
-- **Dashboards**: Contains screenshots of the dashboards created.
-- **Data**: Includes cleaned and prepared data (if permissible to share).
-- **DAX Measures**: Documentation of the custom measures created using DAX.
-- **Insights**: Summarized insights derived from the dashboards.
-
-## How to Use
-1. Clone the repository using:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the Excel file to explore the dashboards and analysis.
-
 ## Key Insights
 - Effective strategies for improving revenue and profit.
 - Identification of high-value customers and products.
@@ -81,4 +68,3 @@ This project showcases my analysis of the AdventureWorks dataset using Excel. Th
 
 ---
 
-Feel free to reach out for any questions or feedback!
